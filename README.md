@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Me-djamil
+- 👋 Hi, I’m djamil
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projet and new skills
-- 📫 How to reach me : by email djamilbenkhedda@gmail.com or by what'sup +213558951966
-- 😄 Pronouns: he
-- ⚡ Fun fact: i love vedio games  but suck on them.
+- 📫 How to reach me : by email djamilmehaibia@hotmail.com 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i love video games 
 
 <!---
 Me-djamil/Me-djamil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
